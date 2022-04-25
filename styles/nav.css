@@ -8,6 +8,8 @@ body {
     font-size: 62.5%;
     font-size: 10px;
 }
+
+
 .nav {
     width: 100%;
     height: 65px;
@@ -71,8 +73,8 @@ body {
 .home {
     width: 100%;
     height: 100vh;
-    background-image: url(https://unsplash.com/photos/twukN12EN7c);
-    background-position: center top;
+    background-image: url(https://images.alphacoders.com/108/1081303.png);
+    background-position: center;
 	background-size:cover;
 }
 
@@ -120,8 +122,8 @@ body {
         left: 0;
         bottom: 0;
         background-color: #111;
-        /*same background color of navbar*/
-        background-position: center top;
+       
+        background-position: center;
     }
     .nav div.main_list ul li {
         width: 100%;
@@ -137,6 +139,8 @@ body {
         display: block;
     }
 }
+
+
 
 .navTrigger {
     cursor: pointer;
@@ -333,19 +337,3 @@ body {
 }
 
 
-.myH2 {
-	text-align:center;
-	font-size: 4rem;
-}
-.myP {
-	text-align: justify;
-	padding-left:15%;
-	padding-right:15%;
-	font-size: 20px;
-}
-@media all and (max-width:700px){
-	.myP {
-		padding:2%;
-	}
-}
-}
