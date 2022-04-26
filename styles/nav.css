@@ -8,7 +8,17 @@ body {
     font-size: 62.5%;
     font-size: 10px;
 }
-
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
 
 .nav {
     width: 100%;
