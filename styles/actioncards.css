@@ -30,6 +30,6 @@ img {
   opacity:0.1;
 }
 .box img:hover {
-  transform:perspective(600px)       rotateY(0deg);
+  transform:perspective(800px)       rotateY(0deg);
   opacity:1;
 }
