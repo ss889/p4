@@ -10,6 +10,12 @@ main {
     font-size: 62.5%;
     font-size: 10px;
 }
+*
+{
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 
 #contact {
   width: 100%;
