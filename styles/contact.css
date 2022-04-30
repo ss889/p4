@@ -1,5 +1,5 @@
 /*DEVELOPER: Sadikul Saber, IS117-004, Spring 2022 */
-main {
+body {
   margin: 0;
   padding: 0;
   background-color: #000;
@@ -8,6 +8,12 @@ main {
     font-family: "Quicksand", sans-serif;
     font-size: 62.5%;
     font-size: 10px;
+}
+
+*
+{
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 #contact {
