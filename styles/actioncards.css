@@ -16,6 +16,7 @@ img {
   transform-origin:center;
   transform:perspective(800px) rotateY(25deg);
   transition:0.5s;
+  z-index:0;
 }
 .box {
   max-width:800px;
@@ -24,6 +25,7 @@ img {
   justify-content:center;
   align-items:center;
   gap:15px;
+  z-index:0;
   
 }
 .box:hover img {
