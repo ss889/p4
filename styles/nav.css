@@ -69,6 +69,10 @@ body {
     padding: 0;
 }
 
+.nav div.dropdown-menu a{
+	z-index:2;
+}
+
 .nav div.main_list ul li {
     width: auto;
     height: 65px;
